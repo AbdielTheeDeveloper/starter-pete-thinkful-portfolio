@@ -111,7 +111,7 @@ hr {
 
 /* Portfolio layout */
 #portfolio {
-  max-width: 1200px;   /* increase container width */
+  max-width: 900px;   /* increase container width */
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -159,7 +159,4 @@ hr {
   flex-direction: column;
   align-items: center;  /* centers form fields */
   gap: 15px;            /* space between inputs */
-}
-main {
-  margin: 0 350px;
 }
